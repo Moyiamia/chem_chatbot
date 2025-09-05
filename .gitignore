@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# 大文件/视频等（按需补充）
+*.mov
+*.mp4
+*.avi
+*.zip
+*.tar
+*.tar.gz
